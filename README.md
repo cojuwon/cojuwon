@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Hi, I'm cojuwon 👋</h1>
 <p>A computer science student and developer based in Chemnitz, Germany</p>
 <h2>🚀 Languages and Tools I Use</h2>
